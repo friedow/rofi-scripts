@@ -1,2 +1,5 @@
-# rofi-workspace
-List git repositories and launch editor, terminal and git-gui with one keystroke.
+# tucan.os - rofi-scripts
+Custom rofi modi for tucan.os.
+
+## rofi-projects
+Lists git repositories in the home directory and opens them using VSCode.
